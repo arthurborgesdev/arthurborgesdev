@@ -2,7 +2,7 @@
 
 ## My inner workings and past experiences
 
-Since I was a child I was always asking questions. It didn't stop sof far. The questions related to "Who am I?", "Where I came from?", "How do I exist?", transformed into questions like "What is consciousness?", "How does consciousness emerge?", "What is emergence? Can it be applied to software?", and so on...
+Since I was a child I was always asking questions. It didn't stop so far. The questions related to "Who am I?", "Where I came from?", "How do I exist?", transformed into questions like "What is consciousness?", "How does consciousness emerge?", "What is emergence? Can it be applied to software?", and so on...
 
 That urge to ask questions and solve problems brought me to computers, to programming and to an Electrical Engineering degree. I worked for a little more than half a decade in that field, and then moved to Software Development, my childhood passion.
 
