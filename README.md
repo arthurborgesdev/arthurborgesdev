@@ -16,6 +16,12 @@ I love almost all kinds of music, except "Xitãozinho e Xororó". When I had the
 
 One of my side projects is to build a digital synthesizer using a NES CPU!!
 
+## Stats
+
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurborgesdev&theme=vision-friendly-dark)](https://github.com/arthurborgesdev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurborgesdev&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github.com/arthurborgesdev/github-readme-stats)
+
 <!--
 **arthurborgesdev/arthurborgesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
