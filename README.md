@@ -22,6 +22,10 @@ One of my side projects is to build a digital synthesizer using a NES CPU!!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurborgesdev&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github.com/arthurborgesdev/github-readme-stats)
 
+## Just4Fun
+
+![Eventual consistency](https://i.redd.it/1czbl8bao2l61.png)
+
 <!--
 **arthurborgesdev/arthurborgesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
