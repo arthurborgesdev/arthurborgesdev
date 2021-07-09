@@ -12,7 +12,7 @@ Today I'm enrolled in Microverse school for remote software developers and I'm h
 
 ## Misc
 
-I love almost all kinds of music, except "Xitãozinho e Xororó". When I had the time, I will for sure spend time learning and mastering the Melodica!
+I love almost all kinds of music. When I had the time, I will for sure spend time learning and mastering the Melodica!
 
 One of my side projects is to build a digital synthesizer using a NES CPU!!
 
