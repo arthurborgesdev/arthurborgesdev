@@ -8,13 +8,13 @@ That urge to ask questions and solve problems brought me to computers, to progra
 
 ## Current activities 
 
-Today I'm enrolled in Microverse school for remote software developers and I'm having lots of fun! I'm learning a lot! While I'm not studying at it, I study by myself and work on other projects, related to embedded programming with C/C++ and functional languages like Elixir.
+Today I'm enrolled in Microverse school for remote software developers and I'm having lots of fun! I'm learning a lot! While I'm not studying at it, I study by myself and work on other projects, related to front-end development.
 
 ## Misc
 
 I love almost all kinds of music. When I had the time, I will for sure spend time learning and mastering the Melodica!
 
-One of my side projects is to build a digital synthesizer using a NES CPU!!
+One of my side projects is a classified advertised platform integrated with AWS: Mint!
 
 ## Stats
 
