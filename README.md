@@ -14,7 +14,7 @@ Right now I'm working at Planhat! It is an amazing company with a excellent Cust
 
 I love almost all kinds of music. When I had the time, I will for sure spend time learning and mastering the Melodica!
 
-One of my side projects is a classified advertised platform integrated with AWS: Mint!
+One of my side projects is a small chiptune synthesizer: water-boatman!
 
 ## Stats
 
