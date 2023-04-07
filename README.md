@@ -8,7 +8,7 @@ That urge to ask questions and solve problems brought me to computers, to progra
 
 ## Current activities 
 
-Right now I'm working at Planhat! It is an amazing company with a excellent Customer Success software product. When I'm not working or studying related technologies I like to spend time with my family and read all sort of books!
+Right now I'm improving my abilities as a Software Engineer/Prompt Engineer. When I'm not working or studying related technologies I like to spend time with my family and play video games!
 
 ## Misc
 
