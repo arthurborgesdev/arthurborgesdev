@@ -1,4 +1,4 @@
-### Hi, I'm Arthur and I love technology! 🤓
+### Hi, I'm Arthur and I love teamwork and technology! 💪🤓
 
 ## My inner workings and past experiences
 
