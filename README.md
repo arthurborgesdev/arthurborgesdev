@@ -8,13 +8,13 @@ That urge to ask questions and solve problems brought me to computers, to progra
 
 ## Current activities 
 
-Right now I'm improving my abilities as a Software Engineer/Prompt Engineer. When I'm not working or studying related technologies I like to spend time with my family and play video games!
+Right now I'm improving my abilities as a Full-stack software developer with React.js/Next.js/Node.js. When I'm not working or studying related technologies I like to spend time with my family and play video games! (Like Final Fantasy Tatics Advance)
 
 ## Misc
 
 I love almost all kinds of music. When I had the time, I will for sure spend time learning and mastering the Melodica!
 
-One of my side projects is a small chiptune synthesizer: water-boatman!
+One of my side projects is to study/play with gbdev.io platform!
 
 ## Stats
 
