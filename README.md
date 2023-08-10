@@ -6,7 +6,7 @@ Right now I'm improving my abilities as a Full Stack Software engineer. I'm more
 
 ## Goals
 
-I'm looking for smart and strong teams/companies to work with.
+I'm looking for smart and strong teams/companies to work with where I can thrive and help its growth!
 
 ## Misc
 
