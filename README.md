@@ -1,13 +1,13 @@
-### Hi, I'm Arthur and I love teamwork and technology! 💪🤓
+### Hi, I'm Arthur and I love entrepreneurship, teamwork and technology! 💪🤓
 
 ## Current activities 
 
-Right now I'm improving my coding and teamwork abilities as a Tech Lead/Full Stack Software engineer. I'm more proficient with the JavaScript ecosystem, but I'm having a great time with Rails!
+I'm leveraging and evaluating tools to build WhatsApp chatbots and automations. I'm more proficient with the TypeScript/JavaScript ecosystem!
 
 ## Goals
 
-I'm getting better each day at Ruby/RoR to be able to also work with this stack.
+Building projects and apps in order to launch successful micro-saas!
 
 ## Misc
 
-I enjoy a lot nerdy stuff. Right now I have this hobby: [Game boy development with ASM!](https://gbdev.io) 👾
+I listen to music all day! Right now I'm listening to Lost Music Season album from Technicolor and to Sonic Youth! :D
